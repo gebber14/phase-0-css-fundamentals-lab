@@ -3,3 +3,26 @@ body {
   height: 100%;
   margin: 0;
 }
+h1 {
+  text-align: center;
+}
+figure {
+  image-orientation: center;
+}
+a {
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: beige; 
+}
+figcaption {
+  text-align: center;
+}
+p#featured-property {
+  width: 800px;
+  text-align: center;
+}
+div {
+  float: left;
+  background-color: beige;
+  width: 25%
+}
